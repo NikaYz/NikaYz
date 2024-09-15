@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m currently 3rd year student at IIIT Bangalore<br>👯 I’m looking to collaborate on web dev projects<br>🌱 I’m currently learning machine learning concepts<br>⚡Fun fact :  I once built a website so fast that even the browser had to catch its breath!
+🎓 I’m currently 3rd year student at IIIT Bangalore<br>👯 I’m looking to collaborate on web dev projects<br>🌱 I’m currently learning machine learning concepts
 
 
 ## 🌐 Socials:
